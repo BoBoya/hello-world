@@ -4,5 +4,8 @@ algorithm
 
 maomao2
 
+
+void QQ(){
 BoBo1
 QQQQQ T_T T_T
+}
