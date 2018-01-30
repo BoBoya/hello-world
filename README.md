@@ -1,7 +1,3 @@
 # hello-world
-algorithm
-1234567895
+I would like to remove it
 
-BoBo1
-
-mao2
